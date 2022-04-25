@@ -1,0 +1,19 @@
+{
+  "name": "teste-agenda",
+  "version": "1.0.0",
+  "description": "Projeto teste da agenda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lar089/Teste-Agenda.git"
+  },
+  "author": "Caroline Lara Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lar089/Teste-Agenda/issues"
+  },
+  "homepage": "https://github.com/Lar089/Teste-Agenda#readme"
+}
